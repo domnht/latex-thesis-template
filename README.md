@@ -1,7 +1,7 @@
 # Luận văn mẫu LaTeX
-Dựa trên quy cách luận văn cao học của *Khoa Khoa học Tự nhiên – Đại học Cần Thơ*.
+Luận văn mẫu LaTeX, dựa trên quy cách luận văn cao học của *Khoa Khoa học Tự nhiên – Đại học Cần Thơ*.
 
-Tác giả: **Nguyễn Hiếu Thanh**
+Thực hiện: **Nguyễn Hiếu Thanh**
 
 ## Cấu trúc file
 
